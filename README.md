@@ -1,4 +1,4 @@
-## Hi there 👋 Here is Grant! Nice to meet you!
+## Hi there 👋 Here is Grant! Nice to meet you! Currently a student in UCSD.
 <!--
 **ImmortalKilan/ImmortalKilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
