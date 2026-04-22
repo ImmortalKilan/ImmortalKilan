@@ -34,14 +34,6 @@ Python    ███████████████░░░░░░░░�
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ImmortalKilan&show_icons=true&hide_border=true&theme=default" alt="Grant's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImmortalKilan&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165" />
-</p>
-
----
 
 ### 📬 Reach Me
 
