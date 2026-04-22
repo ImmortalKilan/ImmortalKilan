@@ -1,15 +1,51 @@
-## Hi there 👋 Here is Grant! Nice to meet you! Currently a student in UCSD.
-<!--
-**ImmortalKilan/ImmortalKilan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi there, I'm Grant 👋</h1>
+<p align="center">
+  <em>Student @ UC San Diego · Curious coder · Chill guy</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧭 About Me
+
+- 🎓 Currently studying at **UC San Diego**
+- 🌱 Learning my way through **algorithms, systems, and clean code**
+- 🛠️ Comfortable in **Java**, **C**, and **Python** — and picking up new tools whenever a project demands it
+- 🤝 Open to collaborating on student projects, hackathons, and anything that makes something useful out of code
+- ⚡ Fun fact: I believe half of good programming is knowing *when* to take a walk
+
+---
+
+### 🧰 Tech Stack
+
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+
+**Current skill level:**
+
+```text
+Java      ████████████░░░░░░░░░░░░░
+C         ██████████░░░░░░░░░░░░░░░
+Python    ███████████████░░░░░░░░░░
+```
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ImmortalKilan&show_icons=true&hide_border=true&theme=default" alt="Grant's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ImmortalKilan&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165" />
+</p>
+
+---
+
+### 📬 Reach Me
+
+- 📧 Email: **gmail2373504052@gmail.com**
+- 💬 Drop an issue or a PR on any repo — I read them all
+
+<p align="center"><sub>Thanks for stopping by ✨</sub></p>
