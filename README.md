@@ -39,7 +39,7 @@ Python    ███████████████░░░░░░░░�
 
 ### 📬 Reach Me
 
-- 📧 Email: **gmail2373504052@gmail.com**
+- 📧 Email: **grant2373504052@gmail.com**
 - 💬 Drop an issue or a PR on any repo — I read them all
 
 <p align="center"><sub>Thanks for stopping by ✨</sub></p>
